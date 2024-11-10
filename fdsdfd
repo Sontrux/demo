@@ -1,0 +1,38 @@
+https://cloud-cube.s3.amazonaws.com/m660o440l0wv/public/arras-mayhem.wav
+https://cloud-cube.s3.amazonaws.com/m660o440l0wv/public/sysse_ok.ogg
+[![kute trailer](http://img.youtube.com/vi/P3cuHSb8Ols/0.jpg)](https://www.youtube.com/watch?v=P3cuHSb8Ols "arras mayhem")
+
+
+
+
+
+
+
+
+
+
+          {
+
+            visible: 0,
+            id: "Nero-FFA",
+            type: "ffa",
+            code: "glitch-worldwide-f",
+            at: p.glitch("dfxserver")
+            // featured: 1, // For Featured Status.
+          },
+          {
+                   visible: 0,
+            id: "Nero-Maze",
+            type: "maze",
+            code: "glitch-worldwide-m",
+            at: p.glitch("dfxserver")
+            // featured: 1, // For Featured Status.
+          },
+          {
+            visible: 0,
+            id: "Nero-2TDM",
+            type: "2TDM",
+            code: "glitch-worldwide-2",
+            at: p.glitch("dfxserver"),
+            //  featured: 1, // For Featured Status.
+          },
